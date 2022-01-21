@@ -11,7 +11,7 @@ Faker==4.1.1
 filelock==3.0.12
 Flask==1.1.2
 Flask-Login==0.5.0
-ipython==7.17.0
+ipython==7.31.1
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.17.2
